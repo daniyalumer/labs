@@ -54,4 +54,4 @@ def decrypt(a,b):
 
 decrypt("KLMLUKAOLMVYA",7)
 
-print("small code")
+print("small codefgfdgd")
